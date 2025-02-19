@@ -1,0 +1,1 @@
+This repository demonstrates an example of unreachable code in a Julia function.  The `bug.jl` file contains the code with the error, while `bugSolution.jl` provides a corrected version. Unreachable code is a common coding error that can lead to unexpected behavior or difficult debugging.
